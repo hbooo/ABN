@@ -3454,3 +3454,8 @@ span[style*="color: #00ff00;"], span[style*="color: #000000;"] {
 #hashes > span > a span:hover, #hashes > span > a:hover, #fl_tokens > span > a > span:hover, #chocos > span > a > span:hover {
  color: #444!important;
 }
+
+/*update background color for preview*/
+#preview_desc{
+	background-color:#2e2e2e!important;
+}
