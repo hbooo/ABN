@@ -3459,3 +3459,11 @@ span[style*="color: #00ff00;"], span[style*="color: #000000;"] {
 #preview_desc{
 	background-color:#2e2e2e!important;
 }
+
+#imgNFO {
+filter: invert(50%);
+}
+
+#userinfo_stats_others {
+margin-left:40px
+}
